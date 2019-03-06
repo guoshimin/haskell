@@ -12,11 +12,12 @@ description:    .
                 .
                 OpenAPI version: 3.0.1
                 .
-                category:       Web
+category:       Web
 homepage:       https://github.com/kubernetes-client/haskell
 author:         Auto Generated
 maintainer:     Shimin Guo <smguo2001@gmail.com>
 license:        Apache-2.0
+license-file:   LICENSE
 build-type:     Simple
 cabal-version:  >= 1.10
 
