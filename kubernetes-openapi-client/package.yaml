@@ -4,6 +4,11 @@ description: |
   This package contains functions for working with kubeconfig files.
 
   Usage of kubeconfig files are described at https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/
+category: Web
+maintainer: Shimin Guo <smguo2001@gmail.com>
+synopsis: Haskell binding for Kubernetes
+license: Apache-2.0
+license-file: LICENSE
 library:
   source-dirs: src
 tests:
