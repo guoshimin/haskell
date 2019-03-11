@@ -25,3 +25,7 @@ export CLIENT_VERSION="0.1"
 export PACKAGE_NAME="kubernetes"
 
 export USERNAME="kubernetes"
+
+export OPENAPI_GENERATOR_USER_ORG=jonschoning
+
+export OPENAPI_GENERATOR_COMMIT=c00321c8e0633bbbe7b0e34d4a7ebd6b43b159e3
